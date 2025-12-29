@@ -9,4 +9,8 @@ This prototype does not provide medical diagnoses or recommendations.
 """
 
 def start_pathpredict():
-    print("PathPredict prototype initialized.")
+    print("Hello, I am PathPredict 🙂")
+    print("I am a simple learning chatbot project.")
+
+start_pathpredict()
+
